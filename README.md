@@ -110,3 +110,7 @@ sudo apt remove howdy
 Tested on:
 - **Lenovo ThinkPad T14 Gen 15** with Chicony IR camera (`04f2:b805`)
 - Ubuntu 24.04.4 LTS, kernel 6.17.x
+
+---
+
+First published as a [gist](https://gist.github.com/taghouttarek/4b228400c5260af201267d195bd8b26c).
